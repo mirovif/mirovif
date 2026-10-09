@@ -1,23 +1,21 @@
 # mirovif · Data Scientist / ML Engineer
 
-Junior / Junior+ · Python, classical machine learning and PyTorch.
+Изучаю машинное обучение и пишу проекты на Python.
+Работаю с табличными данными, обучаю модели в scikit-learn и разбираюсь с Transformer на PyTorch.
 
-Работаю над воспроизводимыми ML-проектами: от анализа данных и проверки качества
-до обучения и разбора ошибок. Отдельно изучаю математику метрик и устройство Transformer.
-
-## Tech Stack
+## Стек
 
 Python · NumPy · Pandas · Scikit-learn · PyTorch · Matplotlib · Git
 
-## Featured Projects
+## Проекты
 
 | Проект | Задача и технологии |
 |---|---|
-| [Apartment Price Prediction](https://github.com/mirovif/ProjectsPython/tree/master/apartment-price-prediction) | Оценка цены жилья на реальных данных Ames Housing; pipeline, CV и анализ ошибок.<br>Regression · Pandas · Scikit-learn |
-| [Titanic Survival Classification](https://github.com/mirovif/ProjectsPython/tree/master/titanic-survival-classification) | Классификация с feature engineering и разделением по группам билетов.<br>Classification · Feature Engineering · Scikit-learn |
-| [Transformer From Scratch](https://github.com/mirovif/ProjectsPython/tree/master/transformer-from-scratch) | Собственная encoder–decoder реализация; ручной attention, тесты masks и обучение на copy task.<br>PyTorch · Attention · NLP foundations |
-| [ML Metrics From Scratch](https://github.com/mirovif/ProjectsPython/tree/master/ml-metrics-from-scratch) | Восемь метрик на NumPy с проверкой по sklearn и тестами граничных случаев.<br>Python · NumPy · ML Fundamentals |
+| [Apartment Price Prediction](https://github.com/mirovif/ProjectsPython/tree/master/apartment-price-prediction) | Оценка стоимости дома по данным Ames Housing.<br>Pandas · Scikit-learn |
+| [Titanic Survival Classification](https://github.com/mirovif/ProjectsPython/tree/master/titanic-survival-classification) | Предсказание выживания пассажиров; сравнение четырёх моделей.<br>Pandas · Scikit-learn |
+| [Transformer From Scratch](https://github.com/mirovif/ProjectsPython/tree/master/transformer-from-scratch) | Encoder–decoder Transformer с собственной реализацией attention.<br>PyTorch |
+| [ML Metrics From Scratch](https://github.com/mirovif/ProjectsPython/tree/master/ml-metrics-from-scratch) | Расчёт метрик регрессии и классификации.<br>Python · NumPy |
 
-## Current Focus
+## Сейчас изучаю
 
-Machine Learning · Deep Learning · NLP · PyTorch
+PyTorch, обучение Transformer и обработку текстовых данных.
